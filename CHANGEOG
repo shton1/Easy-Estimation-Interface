@@ -1,0 +1,14 @@
+# Change Log
+All notable changes to this project will be documented in this file.
+
+## Easy Estimation Interface
+
+Editor: A. Kelso
+
+## [Unreleased]
+
+### [0.0.0] -2020-04-26
+### Added
+- Bidding standards for labor and paint 
+- Equations to calculate the gallons of paint, hours of work, and cost for each
+- Table display of results
