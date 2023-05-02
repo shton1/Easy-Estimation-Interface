@@ -7,8 +7,16 @@ Editor: A. Kelso
 
 ## [Unreleased]
 
-### [0.0.0] -2020-04-26
+### [0.0.0] -2023-4-25
 ### Added
 - Bidding standards for labor and paint 
 - Equations to calculate the gallons of paint, hours of work, and cost for each
 - Table display of results
+
+### [1.0.1] -2023-5-1
+### Change
+- Updated the program to prompt users for measurements
+
+### [1.0.2] 
+### Add
+- Index of values for paint prices and labor costs
