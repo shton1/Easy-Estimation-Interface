@@ -8,15 +8,15 @@ To use Easy-Estimation Interface, simply input the necessary measurements and se
 
 ## Inputs
 
-Easy-Estimation Interface accepts toggle button inputs and integer inputs. Users can select different paint qualities and input measurements for the size of the project.
+Easy-Estimation Interface accepts integer inputs, as well as a paint selection. Once prompted, users can choose from different paint qualities and input measurements for the size of the project.
 
 ## Functions
 
 Easy-Estimation Interface utilizes two user functions: `calculatePaint(measurement)` and `calculateLabor(measurement)`.
 
-`calculatePaint(measurement)` takes an inputted measurement from a home painting estimation, calculates how many gallons of paint are needed, and provides pricing options for different types of paint.
+`calculatePaint(measurement)` takes an inputted measurement from a specified area, calculates how many gallons of paint are needed, and provides pricing for the selected option.
 
-`calculateLabor(measurement)` is similar, but instead outputs labor hours and the total cost for labor.
+`calculateLabor(measurement)` is similar, but instead outputs the total cost for labor.
 
 ## Benefits
 
@@ -30,4 +30,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## Future Updates
 
-There are no current updates planned for Easy-Estimation Interface. If any updates become available, they will be added to this README file with the date and a brief description of the update.
+There are no current updates planned for Easy-Estimation Interface. If any updates become available, they will be added to this README file with the date and a brief description of the update. If you are using different standards for labor or paint pricing, options can be updated in the laborRate and paintPrices indices. 
+
