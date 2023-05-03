@@ -17,6 +17,16 @@ Editor: A. Kelso
 ### Change
 - Updated the program to prompt users for measurements
 
-### [1.0.2] 
+### [1.0.2] -2023-5-1
 ### Add
 - Index of values for paint prices and labor costs
+
+### [1.0.3] -2023-5-2
+### Change
+- Updated the program to output a text file instead of a table
+
+### [1.0.4] -2023-5-2
+### Change
+- Updated the labor and paint calculations to include standard markup
+
+
